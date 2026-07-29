@@ -1,134 +1,99 @@
 # AI Sales Intelligence Assistant - Screenshots
 
-This document contains the screenshots demonstrating the implementation and workflow of the AI Sales Intelligence Assistant developed by AI Weekline.
+This document contains the implementation screenshots of the **AI Sales Intelligence Assistant**, developed by **AI Weekline**.
 
 ---
 
-## Purpose
+# Workflow Architecture
 
-These screenshots provide visual evidence of the complete automation workflow, AI processing, and generated outputs.
+### Complete Automation Workflow
 
----
-
-# Workflow Screenshots
-
-## 1. Gmail Trigger
-
-**Description**
-
-Incoming customer email received in Gmail that triggers the Make.com automation workflow.
-
-**Screenshot**
-
-*Insert Gmail Inbox Screenshot Here*
+![Workflow Architecture](assets/01-Project-Workflow.png)
 
 ---
 
-## 2. Make.com Scenario
+# Customer 01
 
-**Description**
+## Customer Email
 
-Automation workflow connecting Gmail, Google Gemini, and Google Sheets.
+![Customer01 Email](assets/Customer01-Email.png)
 
-**Screenshot**
+## AI Generated Reply
 
-*Insert Make.com Workflow Screenshot Here*
-
----
-
-## 3. Google Gemini Processing
-
-**Description**
-
-Google Gemini analyzes customer email and generates business insights.
-
-**Screenshot**
-
-*Insert Gemini Prompt Screenshot Here*
+![Customer01 AI Reply](assets/Customer01-AIReply.png)
 
 ---
 
-## 4. Google Sheets Output
+# Customer 02
 
-**Description**
+## Customer Email
 
-Structured customer information and AI-generated insights stored automatically.
+![Customer02 Email](assets/Customer02-Email.png)
 
-**Screenshot**
+## AI Generated Reply
 
-*Insert Google Sheets Screenshot Here*
-
----
-
-## 5. AI Generated Email Reply
-
-**Description**
-
-AI-generated response prepared for the customer.
-
-**Screenshot**
-
-*Insert AI Reply Screenshot Here*
+![Customer02 AI Reply](assets/Customer02-AIReply.png)
 
 ---
 
-## 6. End-to-End Workflow
+# Customer 03
 
-**Description**
+## Customer Email
 
-Complete automation flow from incoming email to AI-generated customer response.
+![Customer03 Email](assets/Customer03-Email.png)
 
-Customer Email
+## AI Generated Reply
 
-↓
-
-Gmail
-
-↓
-
-Make.com
-
-↓
-
-Google Gemini
-
-↓
-
-Google Sheets
-
-↓
-
-AI Reply
+![Customer03 AI Reply](assets/Customer03-AIReply.png)
 
 ---
 
-## Testing Results
+# Customer 04
 
-| Test | Status |
-|------|--------|
-| Gmail Trigger | ✅ Passed |
-| Make.com Automation | ✅ Passed |
-| Gemini Analysis | ✅ Passed |
-| Google Sheets Update | ✅ Passed |
-| AI Email Generation | ✅ Passed |
+## Customer Email
 
----
+![Customer04 Email](assets/Customer04-Email.png)
 
-## Future Screenshots
+## AI Generated Reply
 
-Additional screenshots will be included as new features are released.
-
-Examples include:
-
-- CRM Integration
-- Salesforce Dashboard
-- HubSpot Integration
-- Analytics Dashboard
-- AI Insights
-- Multi-user Portal
+![Customer04 AI Reply](assets/Customer04-AIReply.png)
 
 ---
 
-## Conclusion
+# Customer 05
 
-These screenshots demonstrate the successful implementation, testing, and execution of the AI Sales Intelligence Assistant workflow and provide visual validation of the project.
+## Customer Email
+
+![Customer05 Email](assets/Customer05-Email.png)
+
+## AI Generated Reply
+
+![Customer05 AI Reply](assets/Customer05-AIReply.png)
+
+---
+
+# Google Sheets Test Results
+
+## Part 1
+
+![Google Sheets Part 1](assets/Google-Sheets-Test-Results-Part-1.png)
+
+## Part 2
+
+![Google Sheets Part 2](assets/Google-Sheets-Test-Results-Part-2.png)
+
+---
+
+# Summary
+
+The screenshots above demonstrate the complete implementation of the AI Sales Intelligence Assistant, including:
+
+- Workflow Automation using Make.com
+- Gmail Integration
+- Google Gemini AI Processing
+- AI Generated Customer Responses
+- Google Sheets Data Storage
+- End-to-End Customer Test Cases
+- Production-ready Workflow Execution
+
+Developed by **AI Weekline**.
